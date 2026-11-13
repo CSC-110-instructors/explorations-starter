@@ -35,11 +35,11 @@ The final submission deadline is firm.
 
 ## Proposal
 
-Meet briefly with an instructor to discuss your idea before submitting `Team<LN>_ProjectProposal.pdf`. Replace `<LN>` with your team letter and number. Include your team members, an original and informative project name, and a short paragraph describing the idea and what a user will be able to do.
+Meet briefly with an instructor to discuss your idea before submitting, you can find the google form for proposals on Moodle.
 
 ## Design
 
-Submit `Team<LN>_ProjectDesign.pdf`. Include your team members, project name, and a short description. Cover the following:
+Submit a design plan on Gradescope. Include your team members, project name, and a short description. Cover the following:
 
 - **Program structure.** List the Python modules you expect to create and the main functions each will contain. Include a diagram showing how the pieces fit together.
 - **User experience.** Walk through what a user will do and what the program will display in response. You can sketch screens, menus, or terminal output.
@@ -48,7 +48,7 @@ Submit `Team<LN>_ProjectDesign.pdf`. Include your team members, project name, an
 
 ## Prototypes and final submission
 
-Use the `Final_Repo` repository provided to your team. Put `team<LN>_project.py` at the top level so the project starts with `python3 team<LN>_project.py`. Include the modules, data, images, and other files needed to run it. Refer to supporting files using relative paths, such as `images/map.png`.
+Fork this repository for your project code. Be sure to include the modules, data, images, and other files needed to run your code. Refer to supporting files using relative paths, such as `images/map.png`.
 
 For each code milestone, commit and push the version you’re submitting to GitHub before submitting it on Gradescope. Keep `README.md` up to date with team information, a list of the project files and what they contain, any setup steps, and instructions for running and interacting with the program. One person submits the shared project files in Gradescope and adds their teammates to the group submission.
 
