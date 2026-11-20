@@ -39,7 +39,7 @@ Meet briefly with an instructor to discuss your idea before submitting, you can 
 
 ## Design
 
-Submit a design plan on Gradescope. Include your team members, project name, and a short description. Cover the following:
+Submit a design plan on Moodle. Include your team members, project name, and a short description. Cover the following:
 
 - **Program structure.** List the Python modules you expect to create and the main functions each will contain. Include a diagram showing how the pieces fit together.
 - **User experience.** Walk through what a user will do and what the program will display in response. You can sketch screens, menus, or terminal output.
